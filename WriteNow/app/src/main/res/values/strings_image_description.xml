@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="login_shape_des" translatable="false">login logo</string>
+    <string name="welcome_image_des" translatable="false">welcome image</string>
+    <string name="welcome_title_des" translatable="false">welcome title</string>
+    <string name="profile_head_icon_des" translatable="false">profile head icon</string>
+    <string name="drawer_head_image_des">drawer head image</string>
+    <string name="drawer_logout_image_des">drawer logout image</string>
+    <string name="main_sale_user_head_des" translatable="false">main sale user head </string>
+    <string name="my_head_icon_des" translatable="false">my head icon</string>
+    <string name="my_gender_des" translatable="false">my gender</string>
+    <string name="profile_activity_fill_parent_des" translatable="false">fill parent</string>
+    <string name="item_addimage_image_des">item addimage</string>
+    <string name="item_image_img_des" translatable="false">item image img</string>
+    <string name="item_sale_image_image_des" translatable="false">item sale image</string>
+</resources>
