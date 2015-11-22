@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="customImeActionId">0x100</integer>
+    <integer name="registerImeActionId">0x101</integer>
+    <integer name="publishSaleImeActionId">0x102</integer>
+    <integer name="resetImeActionId">0x103</integer>
+    <integer name="verifyImeActionId">0x103</integer>
+</resources>
