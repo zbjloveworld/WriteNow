@@ -2,13 +2,9 @@
 <project version="4">
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/app/src/main/java/com/project/writenow/Config.java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/app/src/main/java/com/project/writenow/action" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/app/src/main/java/com/project/writenow/activity/LoginActivity.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/app/src/main/java/com/project/writenow/activity/MainActivity.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/app/src/main/java/com/project/writenow/activity/RegisterActivity.java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/app/src/main/java/com/project/writenow/adapter" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/app/src/main/java/com/project/writenow/entity" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/app/src/main/java/com/project/writenow/fragment" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/app/src/main/java/com/project/writenow/util/RoundImageView.java" charset="UTF-8" />
   </component>
 </project>
