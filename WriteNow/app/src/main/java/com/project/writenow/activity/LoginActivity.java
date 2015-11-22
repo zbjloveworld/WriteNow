@@ -7,6 +7,8 @@ import android.view.MenuItem;
 
 import com.project.writenow.R;
 
+import javafx.scene.control.Button;
+
 /**
  * Created by Junyi on 2015/10/4.
  */
@@ -16,6 +18,8 @@ public class LoginActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_login);
+
+        
     }
 
     @Override
